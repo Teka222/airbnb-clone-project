@@ -32,3 +32,20 @@ This is a full-stack clone of the Airbnb booking platform. The goal is to build 
 ### Why User-Friendly Design Matters
 
 If a booking system is easy to use, people will trust it and use it more. Simple navigation and fast loading means users are happy and more likely to finish their bookings.
+### Color Styles
+
+- **Primary:** #FF5A5F
+- **Secondary:** #008489
+- **Background:** #FFFFFF
+- **Text:** #222222
+- **Secondary Text:** #717171
+
+### Typography
+
+- **Primary Font:** Circular
+- **Font Weights:** Book (400), Medium (500), Bold (700)
+- **Font Sizes:** 14px, 16px, 24px–32px for headings
+
+### Why This Matters
+
+Identifying color and typography from the Figma mockup helps us keep the design consistent. It also makes it easier to build reusable components and follow a clear visual style.
