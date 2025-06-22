@@ -61,3 +61,26 @@ Identifying color and typography from the Figma mockup helps us keep the design 
 | **DevOps Engineers** | Handle deployment, CI/CD, and server setup |
 | **Product Owner** | Sets the goals, defines features, and checks that user needs are met |
 | **Scrum Master** | Organizes meetings, removes blockers, and supports the team’s progress |
+## UI Component Patterns
+
+### Planned Components
+
+**Navbar**
+- Logo
+- Search bar
+- User options (Login/Profile)
+- Mobile-friendly menu
+
+**Property Card**
+- Image
+- Price, location, rating
+- Favorite button (heart)
+- Responsive layout
+
+**Footer**
+- Navigation links
+- About the company
+- Social media links
+- Copyright
+
+All components will be designed to be reusable so we don’t have to rebuild the same thing again and again.
