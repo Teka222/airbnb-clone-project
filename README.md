@@ -49,3 +49,15 @@ If a booking system is easy to use, people will trust it and use it more. Simple
 ### Why This Matters
 
 Identifying color and typography from the Figma mockup helps us keep the design consistent. It also makes it easier to build reusable components and follow a clear visual style.
+## Project Roles and Responsibilities
+
+| Role | Responsibilities |
+|------|------------------|
+| **Project Manager** | Makes sure everything stays on track and that people are doing their tasks |
+| **Frontend Developers** | Build the interface, make sure it's responsive and user-friendly |
+| **Backend Developers** | Build APIs, set up the database, and handle booking logic |
+| **Designers** | Make the mockups in Figma and ensure the app looks and feels good |
+| **QA/Testers** | Test the app for bugs and make sure everything works correctly |
+| **DevOps Engineers** | Handle deployment, CI/CD, and server setup |
+| **Product Owner** | Sets the goals, defines features, and checks that user needs are met |
+| **Scrum Master** | Organizes meetings, removes blockers, and supports the team’s progress |
